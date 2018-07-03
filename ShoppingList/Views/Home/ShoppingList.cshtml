@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ShoppingList.Models.ShoppingListItem>
+
+@{
+    ViewBag.Title = "My Shopping List";
+}
+<h2>Person List</h2>
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IsNeededToBuy)
+                </th>
+            </tr>
+        </thead>
+        <tbody id="childtable">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.EditorFor(model => item.Description)
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => item.IsNeededToBuy)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>
+        <input name="command" type="submit" value="Add Item" />
+        <input name="command" type="submit" value="Remove Selected" />
+        <input name="command" type="submit" value="Cancel/Refresh" />
+    </p>
+    <p>
+        @Html.ValidationSummary()
+        <input name="command" type="submit" value="Save List" />
+    </p>
+}

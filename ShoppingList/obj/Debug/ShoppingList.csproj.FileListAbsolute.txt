@@ -1,0 +1,142 @@
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\ApplicationInsights.config
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\ShoppingList.dll.config
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\ShoppingList.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\ShoppingList.pdb
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Antlr3.Runtime.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\EntityFramework.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\EntityFramework.SqlServer.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.DependencyCollector.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.Web.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.WindowsServer.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.ApplicationInsights.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.Web.Infrastructure.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Newtonsoft.Json.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.Helpers.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.Mvc.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.Optimization.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.Razor.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.WebPages.Deployment.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.WebPages.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.WebPages.Razor.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\WebGrease.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\EnvDTE.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\VSLangProj.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\EnvDTE80.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Design.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.15.0.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\stdole.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Framework.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Threading.Tasks.Dataflow.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.MSXML.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\EntityFramework.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\EntityFramework.SqlServer.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.Helpers.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.Mvc.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.Optimization.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.Razor.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.WebPages.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.WebPages.Deployment.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\System.Web.WebPages.Razor.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Antlr3.Runtime.pdb
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Newtonsoft.Json.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.ApplicationInsights.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.DependencyCollector.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.WindowsServer.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AI.Web.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\obj\Debug\ShoppingList.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\ApplicationInsights.config
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\ShoppingList.dll.config
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\ShoppingList.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\ShoppingList.pdb
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Antlr3.Runtime.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\EntityFramework.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\EntityFramework.SqlServer.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.DependencyCollector.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.Web.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.WindowsServer.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.ApplicationInsights.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.Web.Infrastructure.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Newtonsoft.Json.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.Helpers.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.Mvc.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.Optimization.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.Razor.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.WebPages.Deployment.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.WebPages.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.WebPages.Razor.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\WebGrease.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\EnvDTE.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\VSLangProj.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\EnvDTE80.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Design.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.15.0.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\stdole.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Framework.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Threading.Tasks.Dataflow.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.MSXML.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\EntityFramework.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\EntityFramework.SqlServer.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.Helpers.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.Mvc.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.Optimization.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.Razor.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.WebPages.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.WebPages.Deployment.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\System.Web.WebPages.Razor.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Antlr3.Runtime.pdb
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Newtonsoft.Json.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.ApplicationInsights.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.DependencyCollector.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.WindowsServer.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AI.Web.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\bin\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\obj\Debug\ShoppingList.dll
+C:\ND Stuff\Sparta Global Tests Code\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb

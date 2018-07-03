@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ShoppingList.Models.ShoppingListViewModel>
+
+@{
+    ViewBag.Title = "FinalShoppingList";
+}
+
+<h2>Final Shopping List</h2>
+
+<div>
+    @Html.ActionLink("Back to Full Shopping List", "Index")
+</div>
+
+<div>
+    <h3>Items to Buy!</h3>
+</div>
+
+
+@foreach (var item in Model) {
+    <div>
+        <h5>@Html.DisplayFor(modelItem => item.Description)</h5>
+</div>
+}
+
+
+

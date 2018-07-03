@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ShoppingList.Models.ShoppingListViewModel>
+
+@{
+    /**/
+
+    ViewBag.Title = "Create Shopping List - All Items";
+}
+
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post ))
+{
+    <div class="page-header">
+        <h2>@ViewBag.Title</h2>
+
+        <div class="btn-toolbar button-wrapper">
+            <input name="command" type="submit" value="Add Item" class="btn btn-primary" />
+            <input name="command" type="submit" value="Remove Selected" class="btn btn-primary" />
+            <input name="command" type="submit" value="Cancel Changes" class="btn btn-primary" />
+            <input name="command" type="submit" id="saveshoplistsubmit" value="View Next Shop List" class="btn btn-primary" />
+            <input name="command" type="submit" id="savesubmit" value="Save list" class="btn btn-lg pull-right btn-outline-primary btn-success" />
+        </div>
+    </div>
+
+    <p>
+        @Html.ValidationSummary()
+    </p>
+
+    <div id="tableContent">
+        <table class="table table-striped table-bordered table-hover fixed-header">
+            <thead>
+                <tr>
+                    <th>
+                        <h4>Shopping Item Name</h4>
+                    </th>
+                    <th class="text-center">
+                        <h4>Need to Buy?</h4>
+                    </th>
+                    <th class="text-center">
+                        <h4>Remove?</h4>
+                    </th>
+                </tr>
+            </thead>
+            <tbody id="childtable">
+                @Html.EditorFor(model => Model)
+            </tbody>
+        </table>
+    </div>
+
+}
+
+@Scripts.Render("~/bundles/shoplist")

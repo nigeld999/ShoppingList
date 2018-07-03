@@ -1,0 +1,20 @@
+﻿@using ShoppingList.Models
+@model ShoppingListViewModel
+
+<tr>
+    <td>
+        @Html.HiddenFor(model => model.Id)
+        @Html.TextBoxFor(model => model.Description, new { @class = "description", @style = "width:100%" } ) 
+        @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+    </td>
+    <td align="center">
+        @Html.EditorFor(model => model.IsNeededToBuy)
+        @Html.ValidationMessageFor(model => model.IsNeededToBuy, "", new { @class = "text-danger" })
+    </td>
+    <td align="center">
+        @Html.CheckBoxFor(model => model.Remove, new { @class = "removeLink" })
+        @Html.ValidationMessageFor(model => model.Remove, "", new { @class = "text-danger" })
+        <!-- <a href="@Url.Action("Delete", "Home", new { id = Model.Id } )" class="removeLink">Remove</a> -->
+    </td>
+</tr>
+

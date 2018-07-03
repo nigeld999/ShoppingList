@@ -1,0 +1,73 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: cornsilk;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.page-header {
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+
+.navbar {
+    background-color: aqua;
+}
+
+input,
+select,
+textarea {
+    max-width: 100%;
+}
+
+
+table {
+    background-color: aliceblue;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    text-align: left;
+}
+
+thead {
+    background-color: aqua;
+    font-weight: bold;
+}
+
+    tbody > tr, thead > tr {
+        display: table;
+        width: 100%;
+    }
+
+
+tbody, thead {
+    display: block;
+}
+    
+
+tbody {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 340px;
+    width: 100%
+}
+
+tbody td:first-child, thead th:first-child {
+        width: 650px;
+    }
+
+tbody td:last-child {
+        width: 220px;
+    }
+
+thead th:last-child {
+    width: 237px; /*allow for scroll bar*/
+}
+    
